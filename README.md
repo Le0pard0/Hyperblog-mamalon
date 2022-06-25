@@ -1,26 +1,25 @@
-
-# Blog de pececito   :tw-1f499:
+ #Blog de Le0pard0 :blue_heart:
 
 ------------
 
-###### Este blog es un trabajo del curso de Git y GitHub de platzi 
-
-
-> Estamos probando los direntenes textos del editor de markdown.
-
+### Trabajo para el curso de Git y GitHubg 
+>  Aqui se trabaja la edición de el README.md
 
 
 ------------
 
-Aqui también. 
-
-~~Este texto debe de ser ignorado~~
-
-Aqui podras realizar busquedas online ---------->[Linkdegoogle](http://www.google.com "Linkdegoogle")
+#### Terminamos con la edición Y el trabajo
+[link para loquear](http://ww.google.com "link para loquear")
 
 
-[========]
-### Con esto nos despedimos gracias !
+
+
+
+
+
+------------
+###### ~~BYES DE MASH~~
+
 
 
 
